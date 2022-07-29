@@ -1,5 +1,6 @@
 module Cawley
 
-greet() = print("Hello World!")
+include("auc.jl")
+include("roc.jl")
 
 end # module
